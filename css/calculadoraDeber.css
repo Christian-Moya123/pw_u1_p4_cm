@@ -1,0 +1,10 @@
+.calculadora {
+    width: 200px;
+    border-collapse: collapse;
+}
+
+.calculadora td {
+    padding: 5px;
+    text-align: center;
+}
+
